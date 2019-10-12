@@ -1,0 +1,22 @@
+{
+  "name": "entrepreneurship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stcorbett/entrepreneurship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stcorbett/entrepreneurship/issues"
+  },
+  "homepage": "https://github.com/stcorbett/entrepreneurship#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
